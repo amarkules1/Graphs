@@ -1,0 +1,21 @@
+---
+- !ruby/object:MyVertex
+  label: 
+  value: 
+  id: -1
+- !ruby/object:MyVertex
+  label: 
+  value: 
+  id: -1
+- !ruby/object:MyVertex
+  label: 
+  value: 
+  id: -1
+- !ruby/object:MyVertex
+  label: 
+  value: 
+  id: -1
+- !ruby/object:MyVertex
+  label: 
+  value: 
+  id: -1

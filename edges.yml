@@ -1,0 +1,31 @@
+---
+- !ruby/object:MyEdge
+  label: 
+  value: 
+  id:
+  - -1
+  - -1
+- !ruby/object:MyEdge
+  label: 
+  value: 
+  id:
+  - -1
+  - -1
+- !ruby/object:MyEdge
+  label: 
+  value: 
+  id:
+  - -1
+  - -1
+- !ruby/object:MyEdge
+  label: 
+  value: 
+  id:
+  - -1
+  - -1
+- !ruby/object:MyEdge
+  label: 
+  value: 
+  id:
+  - -1
+  - -1
